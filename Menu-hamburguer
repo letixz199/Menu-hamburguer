@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Burguer</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="cabecalho">
+    </header>
+</body>
+</html>
+    <h1>Burguer</h1>
+    <ul>
+        <li class="cabecalho-lista-item">
+        <a href=Hamburguer>Entrar</a></li>
+        <li class="cabecalho-lista-item">sair</li>
+        <li class="cabecalho-lista-item">ajuda</li>
+    </header>
+    <img src="16-hamburguer.jpeg" alt="16-hamburguer.jpeg">
+     </ul>
+</body>
+</html>
